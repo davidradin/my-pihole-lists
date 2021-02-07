@@ -1,21 +1,16 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,0,analytics.twitter.com,1,1593954955,1612574173,""
+2,0,cdn.segment.com,1,1606142060,1612574173,
+3,2,(\.|^)bugsnag\.com$,1,1606142074,1612574174,
+5,2,(\.|^)adj\.st$,1,1609337340,1612574174,"Spotify and twitter"
+6,2,(\.|^)adjust\.com$,1,1609337391,1612574174,"Spotify and Twitter "
+7,0,emclick.imodules.com,1,1610906782,1612574173,"Kellogg email clicks"
+9,2,(\.|^)aws\.a2z\.com$,1,1611344185,1612574174,"needed for aws search"
+10,2,(\.|^)gstatic\.com$,1,1611675848,1612574174,
+12,2,(\.|^)rs6\.net$,1,1611698874,1612574174,
+13,0,secure.indeed.com,1,1611702679,1612574173,
+14,0,activity.windows.com,1,1611802251,1612574173,"required for Edge sync"
+15,2,(\.|^)activity\.windows\.com$,1,1611803072,1612574174,"required for edge sync"
+16,0,go.skimresources.com,1,1612289430,1612574173,
+17,2,(\.|^)shareasale\.com$,1,1612289447,1612574174,
+18,0,go.acloudguru.com,1,1612455162,1612574174,"Added from Query Log"
