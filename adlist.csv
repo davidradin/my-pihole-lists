@@ -1,5 +1,5 @@
 id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593186105,1612574170,"Migrated from /etc/pihole/adlists.list",1612838164
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1593186105,1612574170,"Migrated from /etc/pihole/adlists.list",1612875584
 3,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1593186105,1612574170,"Migrated from /etc/pihole/adlists.list",1612582874
 4,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1593186105,1612574170,"Migrated from /etc/pihole/adlists.list",1612582874
 5,https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt,1,1608420671,1612574170,,1612837659
