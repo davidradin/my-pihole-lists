@@ -14,3 +14,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 16,0,go.skimresources.com,1,1612289430,1612574173,
 17,2,(\.|^)shareasale\.com$,1,1612289447,1612574174,
 18,0,go.acloudguru.com,1,1612455162,1612574174,"Added from Query Log"
+20,0,app.adjust.net.in,1,1613274367,1613274367,
