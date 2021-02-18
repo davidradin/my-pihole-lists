@@ -16,3 +16,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 18,0,go.acloudguru.com,1,1612455162,1612574174,"Added from Query Log"
 20,0,app.adjust.net.in,1,1613274367,1613274367,
 21,2,(\.|^)redditstatic\.com$,1,1613341472,1613341472,
+22,2,(\.|^)chewy\.com$,1,1613617927,1613617927,
